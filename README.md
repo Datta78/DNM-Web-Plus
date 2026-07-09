@@ -43,12 +43,12 @@ We build systems — not just websites. From custom web applications to automati
 - Priority technical support
 
 ## Industries We Serve
-Retail | Food & Hospitality | Manufacturing (MIDC) | Healthcare | Education | Professional Services
+Retail | Food & Hospitality | Manufacturing  | Healthcare | Education | Professional Services
 
 ## 📬 Get In Touch
 
 **Dattatray Vijay Bhosale**  
-Founder & Full Stack Developer  
+Founder &  Developer  
 
 - Email: bhosaledattatray78@gmail.com  
 - WhatsApp: +91 87676 64008  

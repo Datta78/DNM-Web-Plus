@@ -50,6 +50,6 @@ Retail | Food & Hospitality | Manufacturing  | Healthcare | Education | Professi
 **Dattatray Vijay Bhosale**  
 Founder &  Developer  
 
-- Email: bhosaledattatray78@gmail.com  
-- WhatsApp: +91 87676 64008  
+- Email: bdattatray78@gmail.com  
+- WhatsApp: +91 8767664008  
 - Location: Sangli, Maharashtra, India

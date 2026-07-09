@@ -2,7 +2,7 @@
 
 **Delivering digital infrastructure for growth-focused businesses.**
 
-We build systems — not just websites. From custom web applications to automation tools, we help small and mid-sized businesses in Sangli, Kolhapur, and Pune MIDC grow faster with technology.
+We build systems — not just websites. From custom web applications to automation tools, we help small and mid-sized businesses in Sangli, Kolhapur, and other cities grow faster with technology.
 
 ## 🛠️ Our Services
 
